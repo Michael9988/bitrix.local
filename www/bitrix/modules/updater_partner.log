@@ -1,0 +1,16 @@
+2015-11-22 20:23:08 -  - exec CUpdateClientPartner::SearchModulesEx
+2015-11-22 20:23:08 -  - exec CUpdateClientPartner::__CollectRequestData
+2015-11-22 20:23:09 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.6.3&dbv=5.6.21&instm=main%2C15.5.8%2CY%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C15.5.0%2CN%3Bclouds%2C15.5.1%2CN%3Bcompression%2C14.0.0%2CN%3Bfileman%2C15.5.2%2CN%3Bhighloadblock%2C15.0.4%2CN%3Biblock%2C15.5.8%2CN%3Bperfmon%2C15.5.1%2CN%3Bsearch%2C15.5.1%2CN%3Bseo%2C15.5.4%2CN%3Bsocialservices%2C15.5.1%2CN%3Btranslate%2C14.0.0%2CN&search_module_id=&search_module=&search_category=7%2C14&search_type=&search_order=DESC&search_order_by=SORT&search_page=1&SUPD_SRS=RU&SUPD_CMP=N
+2015-11-22 20:23:09 -  - exec CUpdateClientPartner::GetHTTPPage
+2015-11-22 20:23:12 -  - TIME SearchModulesEx(request) 3.21 sec
+2015-11-22 20:23:12 -  - exec CUpdateClientPartner::ParseServerData
+2015-11-22 20:23:29 -  - exec CUpdateClientPartner::LoadModuleNoDemand
+2015-11-22 20:23:29 -  - exec CUpdateClientPartner::__CollectRequestData
+2015-11-22 20:23:29 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.6.3&dbv=5.6.21&instm=main%2C15.5.8%2CY%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C15.5.0%2CN%3Bclouds%2C15.5.1%2CN%3Bcompression%2C14.0.0%2CN%3Bfileman%2C15.5.2%2CN%3Bhighloadblock%2C15.0.4%2CN%3Biblock%2C15.5.8%2CN%3Bperfmon%2C15.5.1%2CN%3Bsearch%2C15.5.1%2CN%3Bseo%2C15.5.4%2CN%3Bsocialservices%2C15.5.1%2CN%3Btranslate%2C14.0.0%2CN&reqm=nsandrey.emptyinstall&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2015-11-22 20:23:29 -  - exec CUpdateClientPartner::GetHTTPPage
+2015-11-22 20:23:30 -  - TIME LoadModuleNoDemand(request) 0.399 sec
+2015-11-22 20:23:30 -  - exec CUpdateClientPartner::UnGzipArchive
+2015-11-22 20:23:31 -  - TIME UnGzipArchive 0.923 sec
+2015-11-22 20:23:31 -  - exec CUpdateClientPartner::GetStepUpdateInfo
+2015-11-22 20:23:31 -  - exec CUpdateClientPartner::ParseServerData
+2015-11-22 20:23:32 -  - TIME UpdateStepModules 1.105 sec
